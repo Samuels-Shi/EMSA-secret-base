@@ -7,7 +7,7 @@
 
 ## 历届优秀作品
 
-1.[2021年优秀作品](https://github.com/Samuels-Shi/EMSA-secret-base/tree/main/top%205%20in%202021)
+1.[2021年优秀作品](https://github.com/Samuels-Shi/EMSA-secret-base/tree/5edce2fcf16432a547972edc3e5bc70eb7cbebda/works%20in%202021)
 
 2.2022年优秀作品
 
