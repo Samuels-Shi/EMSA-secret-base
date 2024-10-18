@@ -1,7 +1,7 @@
 # EMSA-secret-base
 
 <p align='center'>
-  <img src='images/梵高.jpg' width='500px'>
+  <img src='images/梵高.jpg' width='480px'>
 </p> 
 
 欢迎来到EMSA的秘密基地！
