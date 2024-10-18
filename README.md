@@ -1,4 +1,7 @@
 # EMSA-secret-base
+<p align='center'>
+  <img src='../images/梵高.jpg'>
+</p> 
 本基地收集了EMSA视觉部历届的优秀作品，也提供设计中可能用到的素材（例如HUST地标建筑图案、IP形象等）和设计任务中的注意事项、需要避免的误区等。请尽情探索！
 ## 历届优秀作品
 
