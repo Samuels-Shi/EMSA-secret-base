@@ -2,13 +2,13 @@
 本基地收集了EMSA视觉部历届的优秀作品，也提供设计中可能用到的素材（例如HUST地标建筑图案、IP形象等）和设计任务中的注意事项、需要避免的误区等。请尽情探索！
 ## 历届优秀作品
 
-1.[2021年十佳作品](https://github.com/Samuels-Shi/EMSA-secret-base/tree/main/top%205%20in%202021)
+1.[2021年优秀作品](https://github.com/Samuels-Shi/EMSA-secret-base/tree/main/top%205%20in%202021)
 
-2.2022年十佳作品（网址3）
+2.2022年优秀作品
 
-3.2023年十佳作品
+3.2023年优秀作品
 
-4.2024年十佳作品
+4.2024年优秀作品
 ## 素材库
 1.HUST地标建筑二创
 
