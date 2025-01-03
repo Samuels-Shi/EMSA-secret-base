@@ -3,7 +3,7 @@
 作者：屈思宇
 
 <p align='center'>
-<img src='../images/形象IP-屈思宇.png'>
+<img src='../images/2024/形象IP-屈思宇.png'>
 </p>
 
 # IP形象二创
@@ -13,5 +13,5 @@
 作者：武欣烨
 
 <p align='center'>
-<img src='../images/IP二创-武欣烨.jpg'>
+<img src='../images/2024/IP二创-武欣烨.jpg'>
 </p>
