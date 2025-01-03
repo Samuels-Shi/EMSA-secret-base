@@ -5,5 +5,5 @@
 # 作品展示
 
 <p align='center'>
-<img src='../images/2023/欢毕业季.png'>
+<img src='../images/2023/毕业季.png'>
 </p>
