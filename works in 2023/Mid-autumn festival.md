@@ -7,5 +7,5 @@
 # 作品展示
 
 <p align='center'>
-<img src='../images/2022/中秋节.png'>
+<img src='../images/2023/中秋节.png'>
 </p>
