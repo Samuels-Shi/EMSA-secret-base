@@ -20,9 +20,9 @@
 
 4.[2024年作品](https://github.com/Samuels-Shi/EMSA-secret-base/tree/main/works%20in%202024)
 ## 素材库
-1.HUST地标建筑二创
+1.[HUST地标建筑二创](https://github.com/Samuels-Shi/EMSA-secret-base/tree/main/Re-creation%20of%20landmark%20building)
 
-2.IP形象二创
+2.[IP形象二创](https://github.com/Samuels-Shi/EMSA-secret-base/tree/main/Re-creation%20of%20IP)
 ## 图片库
 1.风景
 
