@@ -33,7 +33,7 @@
 </p>
 
 <p align='center'>
-<img src='../images/地标5-朱芷萱.png'>
+<img src='../images/地标5-朱芷萱.jpg'>
 </p>
 
 <p align='center'>
@@ -41,7 +41,7 @@
 </p>
 
 <p align='center'>
-<img src='../images/地标3-朱芷萱.jpg'>
+<img src='../images/地标3-朱芷萱.png'>
 </p>
 
 ## 系列3
