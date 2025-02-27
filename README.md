@@ -19,6 +19,8 @@
 3.[2023年作品](https://github.com/Samuels-Shi/EMSA-secret-base/tree/main/works%20in%202023)
 
 4.[2024年作品](https://github.com/Samuels-Shi/EMSA-secret-base/tree/main/works%20in%202024)
+
+5.[2025年作品](https://github.com/Samuels-Shi/EMSA-secret-base/tree/main/works%20in%202025)
 ## 素材库
 1.[华科大视觉标识使用规范](https://vi.hust.edu.cn/index.htm)
 
